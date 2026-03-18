@@ -71,6 +71,17 @@ I am actively seeking opportunities to **improve my skills**, collaborate with t
 - 🇩🇪 German: A1 (Basic)  
 
 ---
+## 👨‍💻 Khalil's GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalil31-shwei&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khalil31-shwei&theme=tokyonight)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil31-shwei&layout=compact&theme=tokyonight)
 
 ## 🧠 Soft Skills
 - Problem-solving mindset  
